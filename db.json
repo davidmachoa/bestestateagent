@@ -38,45 +38,5 @@
     "AverageDaysToSell": 55,
     "ValuationAccuracy": 0.87,
     "Distance": 8.6
-  },
-  {
-    "EstateAgentId": 3691,
-    "EstateAgentGroupId": 4682,
-    "MarketShare": 0.18,
-    "AverageSellingPrice": 280000,
-    "SuccessRate": 0.85,
-    "AverageDaysToSell": 40,
-    "ValuationAccuracy": 0.80,
-    "Distance": 11.3
-  },
-  {
-    "EstateAgentId": 4816,
-    "EstateAgentGroupId": 3691,
-    "MarketShare": 0.09,
-    "AverageSellingPrice": 190000,
-    "SuccessRate": 0.65,
-    "AverageDaysToSell": 70,
-    "ValuationAccuracy": 0.72,
-    "Distance": 12.9
-  },
-  {
-    "EstateAgentId": 5937,
-    "EstateAgentGroupId": 2468,
-    "MarketShare": 0.25,
-    "AverageSellingPrice": 350000,
-    "SuccessRate": 0.95,
-    "AverageDaysToSell": 25,
-    "ValuationAccuracy": 0.98,
-    "Distance": 9.8
-  },
-  {
-    "EstateAgentId": 7028,
-    "EstateAgentGroupId": 2468,
-    "MarketShare": 0.07,
-    "AverageSellingPrice": 180000,
-    "SuccessRate": 0.6,
-    "AverageDaysToSell": 75,
-    "ValuationAccuracy": 0.77,
-    "Distance": 11.5
   }
 ]
